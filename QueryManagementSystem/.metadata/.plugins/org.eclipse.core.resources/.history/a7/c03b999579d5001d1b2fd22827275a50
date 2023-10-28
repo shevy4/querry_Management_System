@@ -1,0 +1,7 @@
+spring.datasource.url = jdbc:mysql://localhost:3306/query_management
+spring.datasource.username=root
+spring.datasource.password=ThFsh20pB*
+spring.jpa.hibernate.ddl-auto=update
+socket.port=6489
+server.port=8081
+logging.file=myapplication.log
